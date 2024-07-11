@@ -1,0 +1,59 @@
+[
+    {
+      "role": "Full stack developer",
+      "organisation": "Scotiabank",
+      "startDate": "Apr, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Worked on Scotiabank Carrebian digital platform",
+        "Developed customer onboarding and product onboarding functionalities",
+        "Developed and maintained full stack applications using React for the frontend and Node.js for the backend"
+      ],
+      "imageSrc": "history/scotia.png"
+    },
+    {
+      "role": "Software developer II",
+      "organisation": "Loblaw Digital",
+      "startDate": "Sep, 2021",
+      "endDate": "Apr, 2023",
+      "experiences": [
+        "Developed e-commerce features like PLP, PDP, cart, checkout, payments, fulfillment, ratings and reviews using React.js for Loblaws online grocery sites(Marketplace)",
+        "Leveraged Next.js for scalable web applications with server-side rendering (SSR) and static site generation (SSG)"
+      ],
+      "imageSrc": "history/loblawDigital.png"
+    },
+    {
+      "role": "Frontend developer",
+      "organisation": "Mobistream",
+      "startDate": "Sep, 2020",
+      "endDate": "Aug, 2021",
+      "experiences": [
+        "Worked on creating Employee and HR portal application",
+        "Developed reusable React.js components and implemented Redux patterns for stable application states"
+      ],
+      "imageSrc": "history/mobistream.png"
+    },
+    {
+      "role": "Frontend developer",
+      "organisation": "Vector Sense Inc",
+      "startDate": "May, 2017",
+      "endDate": "Feb, 2019",
+      "experiences": [
+        "Developed interactive websites using React.js",
+        "Refactored existing codebase, migrating legacy parts to React.js",
+        "Implemented Redux Saga with actions and reducers to manage synchronous API calls efficiently"
+      ],
+      "imageSrc": "history/vectorsense.png"
+    },
+    {
+      "role": "Frontend developer",
+      "organisation": "Customer Experinece Labs",
+      "startDate": "May, 2016",
+      "endDate": "May, 2017",
+      "experiences": [
+        "Designed responsive UI pages",
+        "Helped create reusable UI components"
+      ],
+      "imageSrc": "history/cxlab.png"
+    }
+  ]
