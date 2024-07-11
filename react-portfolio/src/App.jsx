@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className={styles.App}>
-      <Navbar className={styles.nav}/>
+      <Navbar />
       <Hero />
       <About />
       <Experience />
